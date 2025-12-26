@@ -1,4 +1,4 @@
-import modulels
+import python_basic.python_module as python_module
 
 print("This is the main script.")
 
